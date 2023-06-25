@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyProtofolio/static/css/main.283ebb54.css",
-    "main.js": "/MyProtofolio/static/js/main.015d888b.js",
+    "main.js": "/MyProtofolio/static/js/main.65c3f0fc.js",
     "static/media/mm03.png": "/MyProtofolio/static/media/mm03.103b800d679e4971228f.png",
     "static/media/mm05.png": "/MyProtofolio/static/media/mm05.31d00dd44f2912056e86.png",
     "static/media/mm04.png": "/MyProtofolio/static/media/mm04.0a977e235cb0018be852.png",
@@ -42,6 +42,7 @@
     "static/media/ABCJOB16.png": "/MyProtofolio/static/media/ABCJOB16.2b4264988f02e1e0e369.png",
     "static/media/aabc (1).png": "/MyProtofolio/static/media/aabc (1).87043b03e6576db73930.png",
     "static/media/ABCJOb15.png": "/MyProtofolio/static/media/ABCJOb15.c9b7e3b1eeb72f7c3583.png",
+    "static/media/DemoCreatorSnap_2023-06-25 20-15-31.png": "/MyProtofolio/static/media/DemoCreatorSnap_2023-06-25 20-15-31.18598c821b10436bb171.png",
     "static/media/ABcjob12.png": "/MyProtofolio/static/media/ABcjob12.79b8eef7ee4d04f26758.png",
     "static/media/backggydgfgf.png": "/MyProtofolio/static/media/backggydgfgf.7b3902d060c7b62c4455.png",
     "static/media/jobportal-3.png": "/MyProtofolio/static/media/jobportal-3.d5af9e136ada03a7f8d8.png",
@@ -52,10 +53,10 @@
     "static/media/logo.png": "/MyProtofolio/static/media/logo.799ff397891170b710fd.png",
     "index.html": "/MyProtofolio/index.html",
     "main.283ebb54.css.map": "/MyProtofolio/static/css/main.283ebb54.css.map",
-    "main.015d888b.js.map": "/MyProtofolio/static/js/main.015d888b.js.map"
+    "main.65c3f0fc.js.map": "/MyProtofolio/static/js/main.65c3f0fc.js.map"
   },
   "entrypoints": [
     "static/css/main.283ebb54.css",
-    "static/js/main.015d888b.js"
+    "static/js/main.65c3f0fc.js"
   ]
 }
