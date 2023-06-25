@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyProtofolio/static/css/main.283ebb54.css",
-    "main.js": "/MyProtofolio/static/js/main.8641c591.js",
+    "main.js": "/MyProtofolio/static/js/main.abb1d745.js",
     "static/media/mm03.png": "/MyProtofolio/static/media/mm03.103b800d679e4971228f.png",
     "static/media/mm05.png": "/MyProtofolio/static/media/mm05.31d00dd44f2912056e86.png",
     "static/media/mm04.png": "/MyProtofolio/static/media/mm04.0a977e235cb0018be852.png",
@@ -20,7 +20,6 @@
     "static/media/abccpl07_orig.png": "/MyProtofolio/static/media/abccpl07_orig.026d80c0052cc28b76c5.png",
     "static/media/Screen Shot 2023-06-25 at 07.37.41-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 07.37.41-fullpage.88785826f8e1973bca7f.png",
     "static/media/abcjpl01_orig.png": "/MyProtofolio/static/media/abcjpl01_orig.e7f11d303d142d6af43a.png",
-    "static/media/abcjpl06_orig.png": "/MyProtofolio/static/media/abcjpl06_orig.81c6a02fde97054fc0f6.png",
     "static/media/Screen Shot 2023-06-25 at 07.37.49-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 07.37.49-fullpage.bf04979b4740cf8c17d1.png",
     "static/media/Screen Shot 2023-06-25 at 07.37.58-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 07.37.58-fullpage.03293430ac869c427965.png",
     "static/media/ABCLearning4.png": "/MyProtofolio/static/media/ABCLearning4.2b7988149357de4b746f.png",
@@ -29,10 +28,12 @@
     "static/media/Screen Shot 2023-06-25 at 09.13.46-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 09.13.46-fullpage.2c12b97f7b9873c8857a.png",
     "static/media/Abu Sufian.jpeg": "/MyProtofolio/static/media/Abu Sufian.83248b3a52d97c2178df.jpeg",
     "static/media/abccpl03_orig.png": "/MyProtofolio/static/media/abccpl03_orig.f755040a9ec32cda00e8.png",
+    "static/media/aabc4.png": "/MyProtofolio/static/media/aabc4.0497522cb4416112980c.png",
     "static/media/abccpl02_orig.png": "/MyProtofolio/static/media/abccpl02_orig.0b5023a33916d21f07d1.png",
     "static/media/Screen Shot 2023-06-25 at 09.15.34-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 09.15.34-fullpage.8cc222ae6f1a0da721c4.png",
     "static/media/Screen Shot 2023-06-25 at 09.15.25-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 09.15.25-fullpage.461f27825fd37f36b5f6.png",
     "static/media/Screen Shot 2023-06-25 at 09.13.24-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 09.13.24-fullpage.db28a02b4320b2f7aefd.png",
+    "static/media/aabc2.png": "/MyProtofolio/static/media/aabc2.c1c31285cebe99946440.png",
     "static/media/Screen Shot 2023-06-25 at 06.40.37-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 06.40.37-fullpage.020343471824f3e626f1.png",
     "static/media/Screen Shot 2023-06-25 at 09.15.15-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 09.15.15-fullpage.bec8f8cf1f74e9978ce9.png",
     "static/media/Screen Shot 2023-06-25 at 07.37.21-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 07.37.21-fullpage.51ff471be71c84435011.png",
@@ -42,21 +43,24 @@
     "static/media/abccpl06_orig.png": "/MyProtofolio/static/media/abccpl06_orig.f89f3761aac8556b24eb.png",
     "static/media/backgroundlogo.png": "/MyProtofolio/static/media/backgroundlogo.327f54cd110f152addcb.png",
     "static/media/ABCLearning3.png": "/MyProtofolio/static/media/ABCLearning3.5f94b855c4f3b22bae10.png",
-    "static/media/abcjpl02_orig.png": "/MyProtofolio/static/media/abcjpl02_orig.bbcd42266b01a5851002.png",
-    "static/media/abcjpl03_orig.png": "/MyProtofolio/static/media/abcjpl03_orig.302aadbddc72dd73ffb3.png",
+    "static/media/ABCjob14.png": "/MyProtofolio/static/media/ABCjob14.40596b279fbe35d60c43.png",
+    "static/media/ABCJOB16.png": "/MyProtofolio/static/media/ABCJOB16.2b4264988f02e1e0e369.png",
+    "static/media/aabc (1).png": "/MyProtofolio/static/media/aabc (1).87043b03e6576db73930.png",
+    "static/media/ABCJOb15.png": "/MyProtofolio/static/media/ABCJOb15.c9b7e3b1eeb72f7c3583.png",
+    "static/media/ABcjob12.png": "/MyProtofolio/static/media/ABcjob12.79b8eef7ee4d04f26758.png",
     "static/media/backggydgfgf.png": "/MyProtofolio/static/media/backggydgfgf.7b3902d060c7b62c4455.png",
-    "static/media/abcjpl05_orig.png": "/MyProtofolio/static/media/abcjpl05_orig.d98cbae29d87b4bcdbca.png",
-    "static/media/abcjpl04_orig.png": "/MyProtofolio/static/media/abcjpl04_orig.749d06f23e7595a8a598.png",
+    "static/media/jobportal-3.png": "/MyProtofolio/static/media/jobportal-3.d5af9e136ada03a7f8d8.png",
+    "static/media/ABCJOb.png": "/MyProtofolio/static/media/ABCJOb.e791110e1ae045718f08.png",
     "static/media/github.png": "/MyProtofolio/static/media/github.7acde23236a5c7507398.png",
     "static/media/icons8-mail-94.png": "/MyProtofolio/static/media/icons8-mail-94.2791a37c821451ca6dca.png",
     "static/media/icons8-birthday-cake.gif": "/MyProtofolio/static/media/icons8-birthday-cake.8083bbbc5a6aa681d468.gif",
     "static/media/logo.png": "/MyProtofolio/static/media/logo.799ff397891170b710fd.png",
     "index.html": "/MyProtofolio/index.html",
     "main.283ebb54.css.map": "/MyProtofolio/static/css/main.283ebb54.css.map",
-    "main.8641c591.js.map": "/MyProtofolio/static/js/main.8641c591.js.map"
+    "main.abb1d745.js.map": "/MyProtofolio/static/js/main.abb1d745.js.map"
   },
   "entrypoints": [
     "static/css/main.283ebb54.css",
-    "static/js/main.8641c591.js"
+    "static/js/main.abb1d745.js"
   ]
 }
