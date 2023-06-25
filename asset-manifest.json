@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyProtofolio/static/css/main.283ebb54.css",
-    "main.js": "/MyProtofolio/static/js/main.565356af.js",
+    "main.js": "/MyProtofolio/static/js/main.015d888b.js",
     "static/media/mm03.png": "/MyProtofolio/static/media/mm03.103b800d679e4971228f.png",
     "static/media/mm05.png": "/MyProtofolio/static/media/mm05.31d00dd44f2912056e86.png",
     "static/media/mm04.png": "/MyProtofolio/static/media/mm04.0a977e235cb0018be852.png",
@@ -13,11 +13,9 @@
     "static/media/ABCLearning1.png": "/MyProtofolio/static/media/ABCLearning1.d593a466d7e6be959828.png",
     "static/media/mm07.png": "/MyProtofolio/static/media/mm07.47bc2177c33bef2de3eb.png",
     "static/media/Screen Shot 2023-06-25 at 07.34.30-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 07.34.30-fullpage.793501e4d9066e2c7d59.png",
-    "static/media/abccpl01_orig.png": "/MyProtofolio/static/media/abccpl01_orig.2f78ddc505f3f84bad7a.png",
     "static/media/ABCLearning2.png": "/MyProtofolio/static/media/ABCLearning2.a8b2059ffcceda84b145.png",
     "static/media/Screen Shot 2023-06-25 at 09.08.05-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 09.08.05-fullpage.8e520f1d3b73ac0e2b12.png",
     "static/media/Screen Shot 2023-06-25 at 07.37.41-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 07.37.41-fullpage.88785826f8e1973bca7f.png",
-    "static/media/abcjpl01_orig.png": "/MyProtofolio/static/media/abcjpl01_orig.e7f11d303d142d6af43a.png",
     "static/media/Screen Shot 2023-06-25 at 07.37.49-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 07.37.49-fullpage.bf04979b4740cf8c17d1.png",
     "static/media/Screen Shot 2023-06-25 at 07.37.58-fullpage.png": "/MyProtofolio/static/media/Screen Shot 2023-06-25 at 07.37.58-fullpage.03293430ac869c427965.png",
     "static/media/ABCCAR2.png": "/MyProtofolio/static/media/ABCCAR2.a75f35a0d3da20de2377.png",
@@ -54,10 +52,10 @@
     "static/media/logo.png": "/MyProtofolio/static/media/logo.799ff397891170b710fd.png",
     "index.html": "/MyProtofolio/index.html",
     "main.283ebb54.css.map": "/MyProtofolio/static/css/main.283ebb54.css.map",
-    "main.565356af.js.map": "/MyProtofolio/static/js/main.565356af.js.map"
+    "main.015d888b.js.map": "/MyProtofolio/static/js/main.015d888b.js.map"
   },
   "entrypoints": [
     "static/css/main.283ebb54.css",
-    "static/js/main.565356af.js"
+    "static/js/main.015d888b.js"
   ]
 }
